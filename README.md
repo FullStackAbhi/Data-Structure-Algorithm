@@ -26,8 +26,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
