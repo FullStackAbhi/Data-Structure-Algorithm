@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0002-add-two-numbers) |
+| [1837-sum-of-digits-in-base-k](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/1837-sum-of-digits-in-base-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
