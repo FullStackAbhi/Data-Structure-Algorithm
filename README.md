@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0101-symmetric-tree) |
+| [0994-rotting-oranges](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
