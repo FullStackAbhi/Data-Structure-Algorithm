@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0994-rotting-oranges](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -97,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0785-is-graph-bipartite) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
