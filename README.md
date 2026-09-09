@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0560-subarray-sum-equals-k](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
