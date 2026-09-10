@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
@@ -112,9 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
