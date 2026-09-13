@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
