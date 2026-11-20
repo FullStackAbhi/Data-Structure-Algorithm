@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 | [1837-sum-of-digits-in-base-k](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/1837-sum-of-digits-in-base-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
+| [0509-fibonacci-number](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0076-minimum-window-substring) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/FullStackAbhi/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
